@@ -1,0 +1,2 @@
+˙÷“`<?php exit; ?>a:1:{s:7:"content";a:1:{i:0;O:8:"stdClass":9:{s:7:"term_id";s:2:"31";s:4:"name";s:5:"Otras";s:4:"slug";s:5:"otras";s:10:"term_group";s:1:"0";s:16:"term_taxonomy_id";s:2:"31";s:8:"taxonomy";s:22:"cookielawinfo-category";s:11:"description";s:198:"Otras cookies no categorizadas son las que se est√°n analizando y a√∫n no se han clasificado en una categor√≠a.
+[cookie_audit category="others" style="winter" columns="cookie,duration,description"]";s:6:"parent";s:1:"0";s:5:"count";s:1:"0";}}}

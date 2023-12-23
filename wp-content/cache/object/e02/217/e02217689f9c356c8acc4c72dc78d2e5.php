@@ -1,0 +1,1 @@
+%ç—`<?php exit; ?>a:1:{s:7:"content";a:9:{s:27:"using_application_passwords";b:1;s:19:"cli_pg_content_data";b:1;s:24:"https_migration_required";b:1;s:13:"primary_color";b:1;s:15:"secondary_color";b:1;s:21:"wt_cli_ckyes_branding";b:1;s:34:"wt_cli_first_time_activated_plugin";b:1;s:21:"dismissed_update_core";b:1;s:30:"_site_transient_update_plugins";b:1;}}

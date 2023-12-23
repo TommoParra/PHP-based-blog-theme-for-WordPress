@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>O Star</title>
+    <g id="O-Star" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polygon id="img---star" fill="#FFF4DC" transform="translate(25.698485, 25.405592) rotate(-315.000000) translate(-25.698485, -25.405592) " points="19.6649749 25.4006976 8.19848481 42.8865914 25.6938786 31.4387144 43.1794843 42.9055916 31.7314189 25.4099098 43.1984848 7.9251675 25.7036668 19.3724688 8.21748527 7.90559159"></polygon>
+    </g>
+</svg>

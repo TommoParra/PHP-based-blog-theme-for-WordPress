@@ -1,0 +1,32 @@
+{
+    "tudespachoencasa.com": {
+        "siteId": "wTsZFdMGJDkpFAfFTDhjrtDcsnAmVcyU",
+        "siteSecret": "WLFh8rXmA5227z0Q4EtOP9KsBYzDHj39Ur00BahU2NTtOK7mv7dYpXZozKmZDDEa",
+        "blogId": 1,
+        "compression": false,
+        "webhookToken": "0e3235645201eeaa260b839fc34da84f",
+        "home_url": "https:\/\/tudespachoencasa.com",
+        "admin_url": "https:\/\/tudespachoencasa.com\/wp-admin\/",
+        "hosting": "unknown",
+        "alwaysBuffer": true,
+        "isEzoicActive": false,
+        "isApoActive": false,
+        "isLateIntegrationInitRequired": false,
+        "isDlmActive": false,
+        "isWoocommerceCacheHandlerActive": false,
+        "isWoocommerceActive": false,
+        "isAeliaCurrencySwitcherActive": false,
+        "dlm_downloading_url": null,
+        "dlm_download_endpoint": null,
+        "pluginVersion": "1.5.19",
+        "options_cache": {
+            "cache_handler_cache_handler": false,
+            "woocommerce_default_customer_address": false,
+            "wc_aelia_currency_switcher": {
+                "ipgeolocation_enabled": null
+            }
+        },
+        "additional_domains": []
+    },
+    "config_path": "56497a42f33fd172ce96685560e559b6"
+}

@@ -1,0 +1,430 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=Alice&family=Open+Sans:wght@400;600&display=swap" rel="stylesheet">
+  <title>Tu Despacho En Casa &#8211; Otro sitio realizado con WordPress</title>
+<meta name='robots' content='noindex, nofollow' />
+<link rel='dns-prefetch' href='//s.w.org' />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/tudespachoencasa.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.7.2"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://tudespachoencasa.com/wp-includes/css/dist/block-library/style.min.css?ver=5.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='style-css'  href='https://tudespachoencasa.com/wp-content/themes/tudespacho/style.css?ver=0.66706600%201621324443' type='text/css' media='all' />
+<script type='text/javascript' src='https://tudespachoencasa.com/wp-includes/js/jquery/jquery.min.js?ver=3.5.1' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://tudespachoencasa.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<link rel="https://api.w.org/" href="https://tudespachoencasa.com/wp-json/" /><link rel="alternate" type="application/json" href="https://tudespachoencasa.com/wp-json/wp/v2/pages/138" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://tudespachoencasa.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://tudespachoencasa.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.7.2" />
+<link rel="canonical" href="https://tudespachoencasa.com/" />
+<link rel='shortlink' href='https://tudespachoencasa.com/' />
+<link rel="alternate" type="application/json+oembed" href="https://tudespachoencasa.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftudespachoencasa.com%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://tudespachoencasa.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftudespachoencasa.com%2F&#038;format=xml" />
+<link rel="icon" href="https://tudespachoencasa.com/wp-content/uploads/2021/05/cropped-tudespacho_favicon-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://tudespachoencasa.com/wp-content/uploads/2021/05/cropped-tudespacho_favicon-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://tudespachoencasa.com/wp-content/uploads/2021/05/cropped-tudespacho_favicon-180x180.png" />
+<meta name="msapplication-TileImage" content="https://tudespachoencasa.com/wp-content/uploads/2021/05/cropped-tudespacho_favicon-270x270.png" />
+  <style>
+    :root{
+      --primary_color:;
+      --secondary_color:;
+    }
+  </style>
+</head>
+<body class="home page-template-default page page-id-138">
+
+	<view id="load" class="load">
+			<div class="circle"></div>
+	</view>
+
+  <header class="header">
+    <a class="logo" href="https://tudespachoencasa.com">
+      <img class="logo_img" src="https://tudespachoencasa.com/wp-content/themes/tudespacho/assets/logo_horizontal.png" alt="">
+      <!-- <img class="logo_img" src="https://tudespachoencasa.com/wp-content/themes/tudespacho/assets/logo_horizontal.png" alt=""> -->
+            <!-- Logo -->
+    </a>
+    <menu class="nav_bar_menu">
+      <ul id="menu-navegacion" class="nav_bar"><li id="menu-item-75" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-75"><p class="menu_item_cont"><a href="https://tudespachoencasa.com/category/mi-tiempo-y-mi-espacio/">Mi tiempo y mi espacio</a><span class="menu_item_arrow onlyMobileG">^</span></p><div class="sub_menu"><div class="sub_menu_col grid"><p class="sub_menu_title onlyDesktopG">Categorías</p><a class='sub_menu_link' href='https://tudespachoencasa.com/category/mi-tiempo-y-mi-espacio/gestiona-tu-tiempo/'>Gestiona tu tiempo</a><a class='sub_menu_link' href='https://tudespachoencasa.com/category/mi-tiempo-y-mi-espacio/optimiza-tu-espacio/'>Optimiza tu espacio</a></div><div class="sub_menu_col onlyDesktopG"><p class="sub_menu_title">Últimos artículos</p><a class='sub_menu_post' href='https://tudespachoencasa.com/una-tipografia-a-medida-muy-ambiciosa-7/'>Una tipografía a medida muy ambiciosa</a><a class='sub_menu_post' href='https://tudespachoencasa.com/una-tipografia-a-medida-muy-ambiciosa-6/'>Una tipografía a medida muy ambiciosa</a><a href="">Ver todo</a></div></div></li>
+<li id="menu-item-74" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-74"><p class="menu_item_cont"><a href="https://tudespachoencasa.com/category/mi-mente-y-mi-cuerpo/">Mi mente y mi cuerpo</a><span class="menu_item_arrow onlyMobileG">^</span></p><div class="sub_menu"><div class="sub_menu_col grid"><p class="sub_menu_title onlyDesktopG">Categorías</p><a class='sub_menu_link' href='https://tudespachoencasa.com/category/mi-mente-y-mi-cuerpo/gestiona-el-estres/'>Gestiona el estrés</a><a class='sub_menu_link' href='https://tudespachoencasa.com/category/mi-mente-y-mi-cuerpo/salud-y-bienestar/'>Salud y bienestar</a></div><div class="sub_menu_col onlyDesktopG"><p class="sub_menu_title">Últimos artículos</p><a class='sub_menu_post' href='https://tudespachoencasa.com/una-tipografia-a-medida-muy-ambiciosa-9/'>Una tipografía a medida muy ambiciosa</a><a class='sub_menu_post' href='https://tudespachoencasa.com/una-tipografia-a-medida-muy-ambiciosa-5/'>Una tipografía a medida muy ambiciosa</a><a href="">Ver todo</a></div></div></li>
+<li id="menu-item-73" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-73"><p class="menu_item_cont"><a href="https://tudespachoencasa.com/category/mi-entorno/">Mi entorno</a><span class="menu_item_arrow onlyMobileG">^</span></p><div class="sub_menu"><div class="sub_menu_col grid"><p class="sub_menu_title onlyDesktopG">Categorías</p><a class='sub_menu_link' href='https://tudespachoencasa.com/category/mi-entorno/gestiona-tus-relaciones/'>Gestiona tus relaciones</a><a class='sub_menu_link' href='https://tudespachoencasa.com/category/mi-entorno/sostenibilidad/'>Sostenibilidad</a></div><div class="sub_menu_col onlyDesktopG"><p class="sub_menu_title">Últimos artículos</p><a class='sub_menu_post' href='https://tudespachoencasa.com/una-tipografia-a-medida-muy-ambiciosa-8/'>Una tipografía a medida muy ambiciosa</a><a class='sub_menu_post' href='https://tudespachoencasa.com/una-tipografia-a-medida-muy-ambiciosa-4/'>Una tipografía a medida muy ambiciosa</a><a href="">Ver todo</a></div></div></li>
+</ul>      <div class="nearch">
+        <div class="nearch_btn" tabindex="1" onclick="accordionSelector('.nearch_unfold')">
+          <svg class="nearch_icon" aria-hidden="true" focusable="false" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M505 442.7L405.3 343c-4.5-4.5-10.6-7-17-7H372c27.6-35.3 44-79.7 44-128C416 93.1 322.9 0 208 0S0 93.1 0 208s93.1 208 208 208c48.3 0 92.7-16.4 128-44v16.3c0 6.4 2.5 12.5 7 17l99.7 99.7c9.4 9.4 24.6 9.4 33.9 0l28.3-28.3c9.4-9.4 9.4-24.6.1-34zM208 336c-70.7 0-128-57.2-128-128 0-70.7 57.2-128 128-128 70.7 0 128 57.2 128 128 0 70.7-57.2 128-128 128z"></path></svg>
+        </div>
+        <div class="nearch_unfold">
+
+          <svg class="nearch_illu" width="796px" height="425px" viewBox="0 0 796 425" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+              <title>Search</title>
+              <defs>
+                  <polygon id="path-1" points="0.648291082 0.578388889 380.315135 0.578388889 380.315135 358.143729 0.648291082 358.143729"></polygon>
+                  <filter id="filter-3">
+                      <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.952941 0 0 0 0 0.600000 0 0 0 0 0.050980 0 0 0 1.000000 0"></feColorMatrix>
+                  </filter>
+                  <polygon id="path-4" points="0 0.0831635831 143.917377 0.0831635831 143.917377 143.914286 0 143.914286"></polygon>
+                  <filter id="filter-6">
+                      <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 1.000000 0 0 0 0 0.857928 0 0 0 0 0.636928 0 0 0 1.000000 0"></feColorMatrix>
+                  </filter>
+              </defs>
+              <g id="Search" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                  <g id="Group-24">
+                      <path d="M694,399.998872 C694,406.628077 646.991386,412 589.002912,412 C531.009779,412 484,406.628077 484,399.998872 C484,393.370795 531.009779,388 589.002912,388 C646.991386,388 694,393.370795 694,399.998872" id="Fill-1" fill="#FFF3E0"></path>
+                      <g id="Group-5" transform="translate(415.000000, 0.000000)">
+                          <mask id="mask-2" fill="white">
+                              <use xlink:href="#path-1"></use>
+                          </mask>
+                          <g id="Clip-4"></g>
+                          <path d="M195.532706,357.745612 C111.639077,363.141171 -24.6303644,313.285925 26.1524945,232.989592 C65.486654,170.798122 33.4031816,126.650507 13.0430558,107.873399 C-22.7931497,74.8219353 14.6254914,-9.31311699 184.047777,1.53666078 C338.755982,11.4420105 396.136218,114.978314 376.651458,208.048478 C359.169869,291.547654 291.819353,351.552275 195.532706,357.745612" id="Fill-3" fill="#FFF3E0" mask="url(#mask-2)"></path>
+                      </g>
+                      <polygon id="Fill-6" fill="#6A949E" points="486 291.933519 496.066199 302 527 271.066481 516.93265 261"></polygon>
+                      <g filter="url(#filter-3)" id="Group-10">
+                          <g transform="translate(364.000000, 281.000000)">
+                              <mask id="mask-5" fill="white">
+                                  <use xlink:href="#path-4"></use>
+                              </mask>
+                              <g id="Clip-9"></g>
+                              <polygon id="Fill-8" fill="#41A5B5" mask="url(#mask-5)" points="0 119.027141 24.9025574 143.914876 143.917377 24.9720776 119.012459 0.0831635831"></polygon>
+                          </g>
+                      </g>
+                      <polygon id="Fill-11" fill="#FFDBA2" points="472 291.497885 497.502115 317 506 308.499698 480.497885 283"></polygon>
+                      <path d="M605.001165,287.619425 C545.013529,287.619425 496.380575,238.987636 496.380575,179 C496.380575,119.011199 545.013529,70.3794098 605.001165,70.3794098 C664.991132,70.3794098 713.619425,119.011199 713.619425,179 C713.619425,238.987636 664.991132,287.619425 605.001165,287.619425 M605.001165,46 C531.545942,46 472,105.547107 472,179 C472,252.452893 531.545942,312 605.001165,312 C678.456389,312 738,252.452893 738,179 C738,105.547107 678.456389,46 605.001165,46" id="Fill-13" fill="#F3990D"></path>
+                      <g filter="url(#filter-6)" id="Group-19">
+                          <g transform="translate(635.000000, 95.000000)">
+                              <path d="M21.1833,62.9655548 C12.434175,46.7456918 13.124925,29.1029521 22.7268,23.5511712 C32.32305,18.0040479 47.203425,26.6472671 55.951425,42.8659658 C64.703925,59.0811712 64.00755,76.7204178 54.410175,82.2698699 C44.8083,87.8251438 29.93355,79.1795959 21.1833,62.9655548" id="Fill-15" fill="#E1FFF5"></path>
+                              <path d="M2.7351,17.664863 C-0.879525,12.9863699 -0.3249,6.31328767 3.973725,2.75609589 C8.266725,-0.794109589 14.6781,0.12109589 18.28935,4.79726027 C21.903975,9.48041096 21.350475,16.1511644 17.05635,19.7025342 C12.757725,23.2585616 6.347475,22.3468493 2.7351,17.664863" id="Fill-17" fill="#E1FFF5"></path>
+                          </g>
+                      </g>
+                      <path d="M398.378461,149.462254 C394.336536,172.497994 423.884596,191.185709 429.214862,165.90379 C435.559973,135.786722 401.45442,131.93484 398.378461,149.462254 Z" id="Fill-20" fill="#FFF3E0"></path>
+                      <path d="M421.436104,193.392751 C409.208718,196.882652 416.925106,209.996324 423.877071,207.740876 C433.012941,204.777284 431.701696,190.46417 421.436104,193.392751" id="Fill-22" fill="#FFF3E0"></path>
+                      <path d="M55.2654774,257.410707 C41.7502935,335.377827 140.551619,398.628553 158.374695,313.058981 C179.59116,211.124289 65.5507153,198.087151 55.2654774,257.410707 Z" id="Fill-20" fill="#FFF3E0"></path>
+                      <path d="M134.439619,178.576035 C116.50612,183.694557 127.823489,202.927942 138.019705,199.619952 C151.41898,195.27335 149.495821,174.280783 134.439619,178.576035" id="Fill-22" fill="#FFF3E0"></path>
+                      <path d="M99.436104,193.392751 C87.2087181,196.882652 94.9251062,209.996324 101.877071,207.740876 C111.012941,204.777284 109.701696,190.46417 99.436104,193.392751" id="Fill-22" fill="#FFF3E0"></path>
+                      <path d="M13.7303553,317.837869 C-12.3547348,325.282992 4.10689328,353.258825 18.9377523,348.447203 C38.427608,342.124872 35.6302857,311.59023 13.7303553,317.837869" id="Fill-22" fill="#FFF3E0"></path>
+                  </g>
+              </g>
+          </svg>
+
+
+
+          <div class="nearch_ufiz">
+            <p class="sub_menu_title">¿Que estas buscando?</p>
+            <div class="mateput"  data-cycle-container="nearch">
+              <input class="mateputInput nearch Searcher" type="text" placeholder="Buscar..." name="name" autocomplete="off" value="" required>
+              <label for="name" class="mateputLabel">
+                <span class="mateputName onlyMobileG">¿Buscas Algo?</span>
+              </label>
+            </div>
+            <div class="nearch_tags"></div>
+          </div>
+          <div class="nearch_ufde onlyDesktopG">
+
+            <p class="sub_menu_title">Articulos Relacionados</p>
+            <div class="nearch_cycle" data-card="title_card" data-cycle="nearch">
+
+              <!-- para hacer un cyclo paginable filtrable y/o buscable -->
+              <!-- el cyclo debe estar contenido en una etiqueta que SOLO contenga el cyclo -->
+              <!-- colocar en esa etiqueta data-card y data-cycle -->
+              <!-- en los argumentos del cyclo va 'cycle' => lo mismo que el cycle de la etiqueta -->
+              <!-- agregar la variable a JS con localyze script con el mismo nombre -->
+              <!-- colocar la tarjeta en multicards y llamarla con una funcion -->
+
+                          </div>
+            <a class="nearch_all" href="">Ver todos los resultados</a>
+          </div>
+        </div>
+      </div>
+      <div class="nav_bar_foot onlyMobileG">
+        <a class="nav_bar_foot_link" href="https://tudespachoencasa.com/contacto">Contacto</a>
+        <p>síguenos</p>
+        <div class="social_icons">
+          <a class="social_icons_a" href="#">
+            <svg aria-hidden="true" focusable="false" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M504 256C504 119 393 8 256 8S8 119 8 256c0 123.78 90.69 226.38 209.25 245V327.69h-63V256h63v-54.64c0-62.15 37-96.48 93.67-96.48 27.14 0 55.52 4.84 55.52 4.84v61h-31.28c-30.8 0-40.41 19.12-40.41 38.73V256h68.78l-11 71.69h-57.78V501C413.31 482.38 504 379.78 504 256z"></path></svg>
+          </a>
+          <a class="social_icons_a" href="#">
+            <svg aria-hidden="true" focusable="false" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9S339 319.5 339 255.9 287.7 141 224.1 141zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8 26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zM398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z"></path></svg>
+          </a>
+          <a class="social_icons_a" href="#">
+            <svg aria-hidden="true" focusable="false" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z"></path></svg>
+          </a>
+        </div>
+      </div>
+    </menu>
+
+    <button class="burger" onclick="altClassFromSelector('mobile_menu_active', '.header')">
+      <div class="burger_bar"></div>
+      <div class="burger_bar"></div>
+      <div class="burger_bar"></div>
+    </button>
+  </header>
+    <div class="outer_space flex_center onlyDesktopF page_section_home">
+    <h1 class="page_section_header text_width_100_to_40rem">¡Tu blog sobre cómo organizar tu tiempo, mente y cuerpo trabajando desde casa!</h1>
+    <p class="text_butterscotch_color page_section_title page_section_title_italic relative_position">Claim sobre el blog para posicionamiento</p>
+  </div>
+
+  <div class="outer_space">
+      <article class="simpla simpla_lg full_with_hero">
+    <a class="simpla_amg full_with_hero_img full_with_hero_img_100 rowcol1" href="https://tudespachoencasa.com/titulo-del-articulo-del-largo-quesea-necesario-para-el-blog/">
+      <img class="simpla_img" loading="lazy" src="https://tudespachoencasa.com/wp-content/uploads/2021/04/multitasking-african-mother-working-at-home.jpg" alt="">
+    </a>
+
+    <h3 class="ful_with_hero_title ful_with_hero_title_left rowcol1">
+      <a class="text_black_color" href="https://tudespachoencasa.com/titulo-del-articulo-del-largo-quesea-necesario-para-el-blog/">
+        Título del artículo del largo que<br>sea necesario para el blog      </a>
+    </h3>
+
+    <p class="simpla_info text_info_color capitalize">
+            <a class="simpla_info text_info_color uppercase" href="https://tudespachoencasa.com/category/mi-entorno/gestiona-tus-relaciones/">
+        Gestiona tus relaciones      </a>
+      &middot; 10 abril 2021    </p>
+  </article>
+  </div>
+
+  <div class="outer_space">    <a href="https://tudespachoencasa.com" class="banner banner_lg" target="_blank">
+      <img class="simpla_img" loading="lazy" src="https://tudespachoencasa.com/wp-content/uploads/2021/04/Contact-x2-scaled.jpg" alt="">
+    </a>
+  </div>
+
+  <section class="showcase showcase_3 outer_space">
+    
+  <article class="simpla simpla_sm">
+    <a class="simpla_amg" href="https://tudespachoencasa.com/una-tipografia-a-medida-muy-ambiciosa-3/">
+      <img class="simpla_img" loading="lazy" src="https://tudespachoencasa.com/wp-content/uploads/2021/04/high-angle-of-adorable-dog-with-laptop.jpg" alt="">
+    </a>
+    <div class="simpla_caption">
+              <p class="simpla_info text_info_color capitalize">
+                    <a class="simpla_info text_info_color uppercase" href="https://tudespachoencasa.com/category/mi-mente-y-mi-cuerpo/salud-y-bienestar/">
+            Salud y bienestar          </a>
+          &middot; 10 abril 2021        </p>
+      
+              <h3 class="simpla_title ">
+          <a class="text_black_color" href="https://tudespachoencasa.com/una-tipografia-a-medida-muy-ambiciosa-3/">
+            Una tipografía a medida muy ambiciosa          </a>
+        </h3>
+            
+          </div>
+  </article>
+
+
+  <article class="simpla simpla_sm">
+    <a class="simpla_amg" href="https://tudespachoencasa.com/una-tipografia-a-medida-muy-ambiciosa-2/">
+      <img class="simpla_img" loading="lazy" src="https://tudespachoencasa.com/wp-content/uploads/2021/04/full-shot-woman-on-yoga-mat.jpg" alt="">
+    </a>
+    <div class="simpla_caption">
+              <p class="simpla_info text_info_color capitalize">
+                    <a class="simpla_info text_info_color uppercase" href="https://tudespachoencasa.com/category/mi-mente-y-mi-cuerpo/gestiona-el-estres/">
+            Gestiona el estrés          </a>
+          &middot; 10 abril 2021        </p>
+      
+              <h3 class="simpla_title ">
+          <a class="text_black_color" href="https://tudespachoencasa.com/una-tipografia-a-medida-muy-ambiciosa-2/">
+            Una tipografía a medida muy ambiciosa          </a>
+        </h3>
+            
+          </div>
+  </article>
+
+
+  <article class="simpla simpla_sm">
+    <a class="simpla_amg" href="https://tudespachoencasa.com/una-tipografia-a-medida-muy-ambiciosa/">
+      <img class="simpla_img" loading="lazy" src="https://tudespachoencasa.com/wp-content/uploads/2021/04/beautiful-russian-blue-cat-with-funny-emotional-muzzle-lying-on-keayboard-of-laptop-and-relaxing-in-home-interior-on-gray-wall.jpg" alt="">
+    </a>
+    <div class="simpla_caption">
+              <p class="simpla_info text_info_color capitalize">
+                    <a class="simpla_info text_info_color uppercase" href="https://tudespachoencasa.com/category/mi-entorno/sostenibilidad/">
+            Sostenibilidad          </a>
+          &middot; 10 abril 2021        </p>
+      
+              <h3 class="simpla_title ">
+          <a class="text_black_color" href="https://tudespachoencasa.com/una-tipografia-a-medida-muy-ambiciosa/">
+            Una tipografía a medida muy ambiciosa          </a>
+        </h3>
+            
+          </div>
+  </article>
+
+  </section>
+
+  <main class="showcase showcase_2 outer_space grid_column_gap_md relative_position">
+    <div class="icon leave_2_icon"></div>
+
+    
+  <article class="simpla simpla_md">
+    <a class="simpla_amg" href="https://tudespachoencasa.com/disenar-tipografias-es-un-actocultural-tambien-puede-ser-politico-2/">
+      <img class="simpla_img" loading="lazy" src="https://tudespachoencasa.com/wp-content/uploads/2021/04/max-andrey-AS-LPlfzWKs-unsplash-scaled.jpg" alt="">
+    </a>
+    <div class="simpla_caption">
+              <p class="simpla_info text_info_color capitalize">
+                    <a class="simpla_info text_info_color uppercase" href="https://tudespachoencasa.com/category/mi-tiempo-y-mi-espacio/optimiza-tu-espacio/">
+            Optimiza tu espacio          </a>
+          &middot; 10 abril 2021        </p>
+      
+              <h3 class="simpla_title ">
+          <a class="text_black_color" href="https://tudespachoencasa.com/disenar-tipografias-es-un-actocultural-tambien-puede-ser-politico-2/">
+            Diseñar tipografías es un acto<br>cultural. También puede ser político.          </a>
+        </h3>
+                    <p class="text_light_color simpla_text">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae...</p>
+      
+          </div>
+  </article>
+
+
+  <article class="simpla simpla_md">
+    <a class="simpla_amg" href="https://tudespachoencasa.com/disenar-tipografias-es-un-actocultural-tambien-puede-ser-politico/">
+      <img class="simpla_img" loading="lazy" src="https://tudespachoencasa.com/wp-content/uploads/2021/04/max-andrey-AS-LPlfzWKs-unsplash-scaled.jpg" alt="">
+    </a>
+    <div class="simpla_caption">
+              <p class="simpla_info text_info_color capitalize">
+                    <a class="simpla_info text_info_color uppercase" href="https://tudespachoencasa.com/category/mi-tiempo-y-mi-espacio/gestiona-tu-tiempo/">
+            Gestiona tu tiempo          </a>
+          &middot; 10 abril 2021        </p>
+      
+              <h3 class="simpla_title ">
+          <a class="text_black_color" href="https://tudespachoencasa.com/disenar-tipografias-es-un-actocultural-tambien-puede-ser-politico/">
+            Diseñar tipografías es un acto<br>cultural. También puede ser político.          </a>
+        </h3>
+                    <p class="text_light_color simpla_text">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae…</p>
+      
+          </div>
+  </article>
+
+  </main>
+
+  <section class="outer_space overflow_hidden">
+    <div class="page_section_header flex_column_center">
+      <h3 class="text_butterscotch_color page_section_title page_section_title_italic relative_position">
+        Lo mejor de cada sección te lo dejamos aquí
+        <span class="icon icon_top_right heart_icon heart_orange_icon"></span>
+      </h3>
+      <p class="text_light_color page_section_description">Nuestros best sellers por secciones</p>
+      <div class="line line_md line_orange"></div>
+    </div>
+
+    <div class="showcase showcase_3 relative_position">
+      <div class="icon plant_3_icon"></div>
+      
+      
+  <article class="simpla simpla_xs">
+    <a class="simpla_amg" href="https://tudespachoencasa.com/una-tipografia-a-medida-muy-ambiciosa-4/">
+      <img class="simpla_img" loading="lazy" src="https://tudespachoencasa.com/wp-content/uploads/2021/04/max-andrey-AS-LPlfzWKs-unsplash-scaled.jpg" alt="">
+    </a>
+    <div class="simpla_caption">
+              <p class="simpla_info text_info_color capitalize">
+                    <a class="simpla_info text_info_color uppercase" href="https://tudespachoencasa.com/category/mi-entorno/gestiona-tus-relaciones/">
+            Gestiona tus relaciones          </a>
+          &middot; 10 abril 2021        </p>
+      
+              <h3 class="simpla_title ">
+          <a class="text_black_color" href="https://tudespachoencasa.com/una-tipografia-a-medida-muy-ambiciosa-4/">
+            Una tipografía a medida muy ambiciosa          </a>
+        </h3>
+            
+          </div>
+  </article>
+
+    </div>
+  </section>
+
+  <div class="outer_space">    <a href="https://tudespachoencasa.com" class="banner banner_lg" target="_blank">
+      <img class="simpla_img" loading="lazy" src="https://tudespachoencasa.com/wp-content/uploads/2021/04/jp-lockwood-vYXBUftnh9s-unsplash-scaled.jpg" alt="">
+    </a>
+  </div>
+
+  <div class="outer_space flex_column_center">
+    <h5 class="text_black_color page_title_md text_width_100_to_20rem">¿Aun no nos sigues en las redes? @tudespachoencasa</h5>
+  </div>
+
+  <div class="outer_space flex_column_center">
+    <button class="button button_md button_black">¡ESCRÍBENOS!</button>
+    <div class="line line_md line_orange"></div>
+  </div>
+
+
+
+  <footer class="footer" id="footer">
+    <div class="outer_space">
+      <div class="footer_grid">
+        <div class="footer_logo flex_column_center">
+          <a class="logo" href="https://tudespachoencasa.com">
+            <img class="logo_img_footer" src="https://tudespachoencasa.com/wp-content/themes/tudespacho/assets/logo_horizontal.png" alt="">
+          </a>
+
+          <p class="footer_logo_text page_section_title_md">trabajar bien es vivir mejor</p>
+          
+          <div class="social_sharing_horizontal">
+            <a href="" class="asocial_link"><img src="https://tudespachoencasa.com/wp-content/themes/tudespacho/assets/twitter.png" alt=""></a>
+            <a href="" class="asocial_link"><img src="https://tudespachoencasa.com/wp-content/themes/tudespacho/assets/instagram.png" alt=""></a>
+            <a href="" class="asocial_link"><img src="https://tudespachoencasa.com/wp-content/themes/tudespacho/assets/facebook.png" alt=""></a>
+          </div>
+        </div>
+
+        <div class="footer_section">
+          <h6 class="footer_section_title text_black_color">Empresa</h6>
+
+            <ul id="menu-footer-empresa" class="empresa"><li id="menu-item-90" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-90"><a href="https://tudespachoencasa.com/quienes-somos/">Conócenos</a></li>
+<li id="menu-item-89" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-89"><a href="https://tudespachoencasa.com/publicidad/">Publicidad</a></li>
+<li id="menu-item-88" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-88"><a href="https://tudespachoencasa.com/contacto/">Contacto</a></li>
+</ul>        </div>
+
+        <div class="footer_section">
+          <h6 class="footer_section_title text_black_color">Legales</h6>
+
+          <ul id="menu-footer-legales" class="legales"><li id="menu-item-166" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-166"><a href="https://tudespachoencasa.com/aviso-legal/">Aviso legal</a></li>
+<li id="menu-item-167" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-167"><a href="https://tudespachoencasa.com/politica-de-privacidad/">Política de privacidad</a></li>
+<li id="menu-item-168" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-168"><a href="https://tudespachoencasa.com/politica-de-cookies/">Política de cookies</a></li>
+</ul>        </div>
+
+        <div class="footer_section">
+          <h6 class="footer_section_title text_black_color">Secciones</h6>
+
+          <ul id="menu-footer-secciones" class="secciones"><li id="menu-item-95" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-95"><a href="https://tudespachoencasa.com/category/mi-mente-y-mi-cuerpo/gestiona-el-estres/">Gestiona el estrés</a></li>
+<li id="menu-item-96" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-96"><a href="https://tudespachoencasa.com/category/mi-mente-y-mi-cuerpo/salud-y-bienestar/">Salud y bienestar</a></li>
+<li id="menu-item-97" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-97"><a href="https://tudespachoencasa.com/category/mi-entorno/gestiona-tus-relaciones/">Gestiona tus relaciones</a></li>
+<li id="menu-item-98" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-98"><a href="https://tudespachoencasa.com/category/mi-entorno/sostenibilidad/">Sostenibilidad</a></li>
+<li id="menu-item-99" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-99"><a href="https://tudespachoencasa.com/category/mi-tiempo-y-mi-espacio/gestiona-tu-tiempo/">Gestiona tu tiempo</a></li>
+<li id="menu-item-100" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-100"><a href="https://tudespachoencasa.com/category/mi-tiempo-y-mi-espacio/optimiza-tu-espacio/">Optimiza tu espacio</a></li>
+</ul>        </div>
+      </div>
+    </div>
+    
+    <p class="signature"><small>© 2021 | Made with 🧡 by <a href="" target="_blank" class="">Tres PI Web</a></small></p>
+  </footer>
+  <!-- <sign class="signature">
+    <p>&#60;&#47;&#62; by <a href="https://lattedev.com/" target="_blank" class="latteLink">Latte</a></p>
+  </sign> -->
+  <script type='text/javascript' src='https://tudespachoencasa.com/wp-content/themes/tudespacho/js/modules.js?ver=0.66714200%201621324443' id='modules-js'></script>
+<script type='text/javascript' id='main-js-extra'>
+/* <![CDATA[ */
+var lt_data = {"ajaxurl":"https:\/\/tudespachoencasa.com\/wp-admin\/admin-ajax.php","homeurl":"https:\/\/tudespachoencasa.com","front_page":"1"};
+var nearch = {"query":"{\"post_type\":\"post\",\"posts_per_page\":2,\"cycle\":\"nearch\",\"error\":\"\",\"m\":\"\",\"p\":0,\"post_parent\":\"\",\"subpost\":\"\",\"subpost_id\":\"\",\"attachment\":\"\",\"attachment_id\":0,\"name\":\"\",\"pagename\":\"\",\"page_id\":0,\"second\":\"\",\"minute\":\"\",\"hour\":\"\",\"day\":0,\"monthnum\":0,\"year\":0,\"w\":0,\"category_name\":\"\",\"tag\":\"\",\"cat\":\"\",\"tag_id\":\"\",\"author\":\"\",\"author_name\":\"\",\"feed\":\"\",\"tb\":\"\",\"paged\":0,\"meta_key\":\"\",\"meta_value\":\"\",\"preview\":\"\",\"s\":\"\",\"sentence\":\"\",\"title\":\"\",\"fields\":\"\",\"menu_order\":\"\",\"embed\":\"\",\"category__in\":[],\"category__not_in\":[],\"category__and\":[],\"post__in\":[],\"post__not_in\":[],\"post_name__in\":[],\"tag__in\":[],\"tag__not_in\":[],\"tag__and\":[],\"tag_slug__in\":[],\"tag_slug__and\":[],\"post_parent__in\":[],\"post_parent__not_in\":[],\"author__in\":[],\"author__not_in\":[],\"ignore_sticky_posts\":false,\"suppress_filters\":false,\"cache_results\":true,\"update_post_term_cache\":true,\"lazy_load_term_meta\":true,\"update_post_meta_cache\":true,\"nopaging\":false,\"comments_per_page\":\"50\",\"no_found_rows\":false,\"order\":\"DESC\"}"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://tudespachoencasa.com/wp-content/themes/tudespacho/js/custom.js' id='main-js'></script>
+<script type='text/javascript' src='https://tudespachoencasa.com/wp-includes/js/wp-embed.min.js?ver=5.7.2' id='wp-embed-js'></script>
+</body>
+</html>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Almacenamiento en caché de páginas con disk: enhanced 
+
+Served from: tudespachoencasa.com @ 2021-05-18 07:54:03 by W3 Total Cache
+-->
